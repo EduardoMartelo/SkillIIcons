@@ -1,3 +1,7 @@
+<p>Mais símbolos</p>
+<h3 align="center">https://pt.piliapp.com/symbol/</h3>
+
+
 <p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
 <h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
